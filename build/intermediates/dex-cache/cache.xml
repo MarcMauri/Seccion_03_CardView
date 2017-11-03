@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/marc/.android/build-cache/715cd3668be23d0d89ea978aae2cb3e20d77d0b9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/home/marc/Documents/android-projects/Seccion_03_CardView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ade200762ba9d2cd09d3b36dfb2a8eea9bb43aad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marc/Documents/android-projects/Seccion_03_CardView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/marc/Documents/android-projects/Seccion_03_CardView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4b4969582953cc819f4f8ca9509cbcc71c02f87c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marc/Documents/android-projects/Seccion_03_CardView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5cf62403151805bad41a34b45cd9e810f2c9f317">
+        <dex dex="/home/marc/Documents/android-projects/Seccion_03_CardView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1f693ccee7827a726fd7156600482bd2480f76d9/classes.dex" />
+    </item>
+
+</items>
